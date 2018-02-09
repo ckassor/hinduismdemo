@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 4
-date: 2017-04-06 13:32:20 +0300
+date: 2017-07-06 13:32:20 +0300
 description: Week 4
 img: vyasa.jpg
 ---

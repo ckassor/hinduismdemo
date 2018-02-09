@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog
-date: 2017-09-12 13:32:20 +0300
+date: 2017-11-01 13:32:20 +0300
 description: Here's how you get to our blog
 img: 
 

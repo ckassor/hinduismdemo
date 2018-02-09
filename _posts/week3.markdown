@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 3
-date: 2017-04-06 13:32:20 +0300
+date: 2017-08-06 13:32:20 +0300
 description: Week 3
 img: boldbeggar.jpg
 ---

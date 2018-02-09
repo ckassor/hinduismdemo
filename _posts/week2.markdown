@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 2
-date: 2017-04-06 13:32:20 +0300
+date: 2017-09-06 13:32:20 +0300
 description: Week 1
 img: vedic.jpg
 ---
