@@ -1,8 +1,6 @@
 title: RLST210 - Hinduism
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hinduism at Lawrence University, Spring 2018. Connie Kassor
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /demo
 url: "http://rlst210.online" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Hinduism, Spring 2018
 author-img: mainhall.jpg
-about-author: This is the webpage for Connie Kassor's Spring 2018 Hinduism course at Lawrence Unviersity. Here is where you'll find the course schedule, syllabus, and all readings and other documents.
+about-author: This is the webpage for Connie Kassor's Spring 2018 Hinduism course at Lawrence Unviersity. Here is where you'll find all of the information, readings, and resources relevant to the course.
 
 email: constance.e.kassor@lawrence.edu
 
